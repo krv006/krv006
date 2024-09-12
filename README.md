@@ -1,5 +1,4 @@
 
-[![MasterHead](https://og-websitev3-dep.s3.amazonaws.com/media/original_images/ml_python_Hz38IHf.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kamronbek Rustamov</h1>
 
 
@@ -14,18 +13,13 @@
 - ⚡ Fun fact **I am friendly**
 
 </br></br></br>
-[
 
-<img src="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
-
-]
 
 <h1 tabindex="-1" align="left">🌐 Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/sarvarbek-davranbekov-3272212a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvarbek-davranbekov-3272212a5" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100081788845272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081788845272" height="30" width="40" /></a>
-<a href="https://instagram.com/sarvar_py_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarvar_py_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamron-rustamov-57b1052b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvarbek-davranbekov-3272212a5" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prvt_rv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/krv006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
 </p>
 
 
