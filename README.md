@@ -17,9 +17,9 @@
 
 <h1 tabindex="-1" align="left">🌐 Connect with me:</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/kamron-rustamov-57b1052b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvarbek-davranbekov-3272212a5" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prvt_rv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/krv006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamron-rustamov-57b1052b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamron-rustamov-57b1052b2" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prvt_rv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krv006" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/krv006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krv006" height="30" width="40" /></a>
 </p>
 
 
@@ -33,21 +33,21 @@
 
 </br><h1 tabindex="-1" style="font-size: 2em">📊 LeetCode Stats:</h1>
 
-<a href="https://leetcode.com/u/sarvar_py_dev/">![Leetcode Stats](https://leetcard.jacoblin.cool/sarvar_py_dev?theme=dark)</a>
+<a href="https://leetcode.com/u/krv006/">![Leetcode Stats](https://leetcard.jacoblin.cool/sarvar_py_dev?theme=dark)</a>
 
 </br><h1 tabindex="-1" align="left">📊 GitHub Stats:</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvar-py-dev&show_icons=true&locale=en&layout=compact" alt="sarvar-py-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krv006&show_icons=true&locale=en&layout=compact" alt="krv006" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvar-py-dev&show_icons=true&locale=en" alt="sarvar-py-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krv006&show_icons=true&locale=en" alt="sarvar-py-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar-py-dev&" alt="sarvar-py-dev" /><span>    </span>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krv006&" alt="sarvar-py-dev" /><span>    </span>
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-py-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvar-py-dev" alt="sarvar-py-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krv006" alt="krv006" /></a> </p>
 
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{sarvar-py-dev}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{krv006}/count.svg"/>
 </p>
