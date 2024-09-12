@@ -1,8 +1,6 @@
 
 [![MasterHead](https://og-websitev3-dep.s3.amazonaws.com/media/original_images/ml_python_Hz38IHf.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sarvarbek Davranbekov</h1>
-<h3 align="center">A passionate python developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h1 align="center">Hi 👋, I'm Kamronbek Rustamov</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar-py-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar-py-dev" /> </p>
@@ -13,7 +11,7 @@
 
 - 🌱 I want to learn **blockchain**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am friendly**
 
 </br></br></br>
 [
