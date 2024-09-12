@@ -33,7 +33,7 @@
 
 </br><h1 tabindex="-1" style="font-size: 2em">📊 LeetCode Stats:</h1>
 
-<a href="https://leetcode.com/u/krv006/">![Leetcode Stats](https://leetcard.jacoblin.cool/sarvar_py_dev?theme=dark)</a>
+<a href="https://leetcode.com/u/krv006/">![Leetcode Stats](https://leetcard.jacoblin.cool/krv006?theme=dark)</a>
 
 </br><h1 tabindex="-1" align="left">📊 GitHub Stats:</h1>
 
