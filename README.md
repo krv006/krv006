@@ -1,51 +1,84 @@
-
-<h1 align="center">Hi 👋, I'm Kamronbek Rustamov</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar-py-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar-py-dev" /> </p>
-
-[//]: # (- 🔭 I’m currently learning on DRF &#40;API&#41;)
-
-- 💻 I can do Telegram bots, Django, DRF
-
-- 🌱 I want to learn **blockchain**
-
-- ⚡ Fun fact **I am friendly**
-
-</br></br></br>
+[pytest]
+DJANGO_SETTINGS_MODULE = root.settings
+python_files = tests.py tests_*.py *_tests.py filterwarnings =
+ignore::django.utils.deprecation.RemovedInDjango60Warning
 
 
-<h1 tabindex="-1" align="left">🌐 Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/kamron-rustamov-57b1052b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamron-rustamov-57b1052b2" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prvt_rv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krv006" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/krv006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krv006" height="30" width="40" /></a>
+
+
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
+<h1 align="center">Hi 👋, I'm Kamronbek</h1>
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<p align="center">
+
+
+- 🔭 I’m currently working on [The Nikel Token](https://www.nikeltoken.com/)
+- 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
+- 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:rvkamronbek@gmail.com)
+
+
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
+## 🌐 Socials:
+
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://rustamov_006.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamron-rustamov-57b1052b2)  [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:rvkamronbek@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/krv006)
+
+
+
+
+# 💻 Tech Stack:
+
+![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/PHP-information?color=%23777BB4&style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
+</br>
+
+![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+</br>
+
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
+![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
+![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
+
+![](https://img.shields.io/badge/MacOS-information?color=343d46&style=flat&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black)
+![GIt](https://img.shields.io/badge/Git-%23E34F26.svg?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Gitlab%20CI/CD-information?color=%23181717&style=flat&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
+![Linode](https://img.shields.io/badge/linode-%23009639.svg?style=flat&logo=linode&logoColor=black)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=flat&logo=gunicorn&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%23Clojure.svg?style=flat&logo=Celery&logoColor=Green)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+
+# 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical">
+<br/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight">
+<br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaniyevUz&theme=tokyonight&hide_border=true" alt="Ganiyevuz">
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
-
-
-</br><h1 tabindex="-1" align="left">💻 Tech Stack:</h1>
-<p align="left">  
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-</br><h1 tabindex="-1" style="font-size: 2em">📊 LeetCode Stats:</h1>
-
-<a href="https://leetcode.com/u/krv006/">![Leetcode Stats](https://leetcard.jacoblin.cool/krv006?theme=dark)</a>
-
-</br><h1 tabindex="-1" align="left">📊 GitHub Stats:</h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krv006&show_icons=true&locale=en&layout=compact" alt="krv006" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krv006&show_icons=true&locale=en" alt="sarvar-py-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krv006&" alt="sarvar-py-dev" /><span>    </span>
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar-py-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krv006" alt="krv006" /></a> </p>
+<br/>
 
 ## 👁️ Number of visits:
 <p align="center">
