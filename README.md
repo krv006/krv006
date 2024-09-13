@@ -1,5 +1,4 @@
 
-
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
 <h1 align="center">Hi 👋, I'm Kamronbek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
@@ -66,14 +65,13 @@
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krv006&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamronbek&theme=tokyonight&hide_border=true" alt="Ganiyevuz">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamronbek&theme=tokyonight&hide_border=true" alt="Kamronbek">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Kamronbek&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krv006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
-
 ## 👁️ Number of visits:
 <p align="center">
    <img src="https://profile-counter.glitch.me/{krv006}/count.svg"/>
