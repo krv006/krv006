@@ -5,6 +5,7 @@
 
 
 
+
 - 🔭 Self Employed
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot,, Devops, **
 - 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:rvkamronbek@gmail.com)
