@@ -4,7 +4,6 @@
 <p align="center">
 
 
-
 - 🔭 Self Employed
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot, Devops, Data Analyst and Data Engineer**
 - 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:rvkamronbek@gmail.com)
