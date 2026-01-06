@@ -3,7 +3,6 @@
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
 
-
 - 🔭 Self Employed
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot, Devops, Data Analyst and Data Engineer**
 - 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:rvkamronbek@gmail.com)
