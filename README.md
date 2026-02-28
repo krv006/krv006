@@ -48,7 +48,6 @@
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-
 # 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=krv006&theme=radical">
